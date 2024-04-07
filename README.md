@@ -1,4 +1,7 @@
 # ASTOC
+
+<img src="https://github.com/andrebelem/ASTOC/blob/main/ASTOc_logo.png" width="200">
+
 Este é o repositório da<br>
 🌊 **Escola de Verão ReNOMO - Curso de Análise de Séries Temporais em Oceanografia** 📈
 
