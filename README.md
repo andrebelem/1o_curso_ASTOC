@@ -1,4 +1,4 @@
-# ASTOC
+# ASTOc
 
 <img src="ASTOc_logo.png" width="200">
 
